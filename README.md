@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Senior Software Engineer
+## I'm a Senior Full Stack developer
 
  <br />
  
