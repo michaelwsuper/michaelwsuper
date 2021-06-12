@@ -2,7 +2,7 @@
 
 ## I'm a Senior Senior Software Engineer
 
-## 💬 Contact me fakhalikovr@gmail.com
+## 💬 Contact me topdevfreelancing@gmail.com
 
  <br />
  
