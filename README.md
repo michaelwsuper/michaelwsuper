@@ -1,4 +1,4 @@
-![picture](https://github.com/freelancelife/freelancelife/blob/main/111.png) <br />
+<!-- ![picture](https://github.com/freelancelife/freelancelife/blob/main/111.png) <br /> -->
 
 ### Hi 👋
 
